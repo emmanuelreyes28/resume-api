@@ -1,0 +1,53 @@
+[
+    {
+        "company": "Abbott",
+        "position": "Software Engineer",
+        "location": "Sylmar, CA",
+        "startDate": "February 2022",
+        "endDate": "",
+        "duties": [
+            "Perform root cause analysis and identification of solutions to complex field issues in adherence to our Quality Systems regulations",
+            "Collaborate with DevOps to deploy software and hardware releases for Remote Care Operations, reaching 500K users on staging and production environments using Agile methodology",
+            "Develop SQL queries to streamline alerts for clinicians, enabling them to monitor patients' implants & transmissions with 99% accuracy",
+            "Streamline product workflows by developing automated testing procedures using Python and Selenium, resulting in 50% reduction testing time while ensuring the functionality of web services",
+            "Implement the Software Development Life Cycle (SDLC) methodologies to ensure systematic planning, execution, and delivery of software projects",
+            "Communicate effectively with team members and stakeholders to meet deliverables, adjust timelines and provide regular status updates"
+        ]
+    },
+    {
+        "company": "Coding Minds Academy",
+        "position": "Software Programming Instructor",
+        "location": "Irvine, CA",
+        "startDate": "August 2019",
+        "endDate": "February 2022",
+        "duties": [
+            "Taught more than 10 programming courses including Python and Web Development to students ranging in age from 13 - 17 years old",
+            "Collaborated with the startup's founder to design comprehensive Python and Unity curricula, employed by over 150 students and instructors, resulting in the creation of more than 100 projects per quarter",
+            "Mentored 70+ students in developing software projects and effectively debugging their code, resulting in a project success rate of 90%"
+        ]
+    },
+    {
+        "company": "Beall Center for Innovation and Entrepreneurship",
+        "position": "Software & Robotics Instructor",
+        "location": "Irvine, CA",
+        "startDate": "June 2018",
+        "endDate": "August 2018",
+        "duties": [
+            "Led a group of 20 students ranging in age from 13 to 19 years old through an introduction to coding and robotics prior to delving into Arduino programming",
+            "Instructed students in C++ programming and use of Arduino IDE resulting in a 95% increase in students’ understanding of coding concepts",
+            "Coached students in developing expressive robotics using Arduinos resulting in the creation of 10 functioning robots"
+        ]
+    },
+    {
+        "company": "Dreams for Schools",
+        "position": "Software Programming Instructor",
+        "location": "Irvine, CA",
+        "startDate": "April 2017",
+        "endDate": "June 2017",
+        "duties": [
+            "Taught mobile application development to a class of 20 middle school students, resulting in an average improvement of 25% in students' understanding of the coding concepts taught.",
+            "Led the development of unique games related to school subjects, using MIT App Inventor, by students over a period of 12 weeks",
+            "Assisted students in debugging code for their mobile applications, resulting in a 90% success rate of apps functioning as intended."
+        ]
+    }
+]
