@@ -21,6 +21,11 @@ app.get("/experience", (req, res) => {
   res.json(experience);
 });
 
+app.get("/projects", (req, res) => {
+  const projects = require("./projects.json");
+  res.json(projects);
+});
+
 app.listen(port, () => {
   console.log(`Listening on port ${port}`);
 });
