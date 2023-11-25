@@ -1,0 +1,9 @@
+{
+    "programminLanguages": ["JavaScript", "TypeScript", "Python", "Java", "C#"],
+    "webTechnologies": ["React", "HTML", "CSS", "Node.js"],
+    "databases": ["MongoDB", "Oracle", "Postgres", "MySQL"],
+    "frameworks": ["Node.js", "Next.js"],
+    "versionControl": ["Git", "GitHub", "Bitbucket"],
+    "tools": ["Jira", "Postman", "Heroku", "Vercel"],
+    "softSkills": ["Teamwork", "Mentoring", "Collaboration", "Communication", "Problem Sovling", "Time Management"]
+}
