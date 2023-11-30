@@ -5,7 +5,7 @@ const port = 3000;
 app.use(require("./middlewares/errorHandler"));
 
 app.get("/", (req, res) => {
-  res.send("Hello world");
+  res.send("Welcome to Emmanuel's Resume API!");
 });
 
 app.get("/personalInfo", (req, res) => {
