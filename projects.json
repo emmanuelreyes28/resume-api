@@ -4,7 +4,7 @@
         "description": "Resume API implements the REST API architecture, mainly the GET method to retrieve sections of Emmanuel's resume.",
         "startDate": "November 2023",
         "endDate": "",
-        "ongoing": "true",
+        "ongoing": true,
         "highlights": ["REST API"],
         "technologiesUsed": ["Node.js", "npm", "Javascript", "JSON"],
         "link": "https://github.com/emmanuelreyes28/resume-api"
@@ -14,7 +14,7 @@
         "description": "Here, you can discover new pre-workout products and share your own reviews based on your personal experiences. We provide detailed information about each pre-workout, including its benefits, caffeine content, and whether it features an open label or proprietary blend. Make informed decisions and find the perfect pre-workout to enhance your fitness journey.",
         "startDate": "March 2023",
         "endDate": "May 2023",
-        "ongoing": "false",
+        "ongoing": false,
         "highlights": ["Server Side Rendering (SSR)", "REST API", "Dynamic Routes", "Database Models"],
         "technologiesUsed": ["React", "Javascript", "Tailwind CSS", "MongoDB", "Next.js"],
         "link": "https://the-pre-workout-insider.vercel.app/"
@@ -24,7 +24,7 @@
         "description": "A mininum viable product (mvp) clone of X, formerly known as Twitter. Users can easily sign-in with their GitHub or LinkedIn account. Once signed-in, users can post tweets and like other users' posts.",
         "startDate": "July 2023",
         "endDate": "August 2023",
-        "ongoing": "false",
+        "ongoing": false,
         "highlights": ["Cookie-based Auth", "Authorization with Row-Level Security", "Fetching and Mutating Data", "Realtime Subscriptions", "Postgres Trigger Functions"],
         "technologiesUsed": ["React", "TypeScript", "Tailwind CSS", "PostgreSQL", "Next.js", "Supabase"],
         "link": "https://blue-bird-iota.vercel.app/"
@@ -34,7 +34,7 @@
         "description": "The Blog Web App project is a dynamic and interactive platform designed for creating, managing, and sharing blog content. Leveraging modern web technologies, this project aims to provide a user-friendly interface for both bloggers and readers.",
         "startDate": "Spetemeber 2022",
         "endDate": "Septemeber 2022",
-        "ongoing": "false",
+        "ongoing": false,
         "highlights": ["User-Friendly Interface", "Responsive Design", "Create Blogs"],
         "technologiesUsed": ["Node.js", "npm", "Express.js", "CSS", "MongoDB"],
         "link": "https://github.com/emmanuelreyes28/Blog-Web-App"
@@ -44,7 +44,7 @@
         "description": "Land Monster Adventure game is a horizontal screen scrolling game inspired and similart to Google's Dinosaur Game. This game was developed using the PyGame libary and free assets from OpenGameArt.org.",
         "startDate": "December 2021",
         "endDate": "January 2022",
-        "ongoing": "false",
+        "ongoing": false,
         "highlights": ["Object Oriented Programming (OOP)", "Sprite Images", "Sprite Animations", "Screen Scrolling"],
         "technologiesUsed": ["Python", "PyGame"],
         "link": "https://github.com/emmanuelreyes28/LandMonsterAdventure"
@@ -54,7 +54,7 @@
         "description": "This automated program uses Python and Selenium to gather a list of job positions recommended by LinkedIn. It also visits each compamy that has either alumni or current connections that currently work for that company.",
         "startDate": "September 2020",
         "endDate": "September 2020",
-        "ongoing": "false",
+        "ongoing": false,
         "highlights": ["Automation", "WebScraping", "Scripting"],
         "technologiesUsed": ["Python", "Selenium"],
         "link": "https://github.com/emmanuelreyes28/AutomatedLinkedInConnections"
