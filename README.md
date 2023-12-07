@@ -24,9 +24,9 @@ Designed and developed a RESTful API to showcase various sections of my resume, 
 - HTTP Method: **GET**
 - Request: no request parameters required
 - Response:
-  _ Status Code: 200 OK
-  _ Content Type: application/json
-  \_ Response Body:
+  - Status Code: 200 OK
+  - Content Type: application/json
+  - Response Body:
   ```
   {
     "name": "Emmanuel Reyes",
